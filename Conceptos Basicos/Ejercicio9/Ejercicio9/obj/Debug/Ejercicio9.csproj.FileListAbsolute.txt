@@ -1,0 +1,7 @@
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csproj.CoreCompileInputs.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csprojAssemblyReference.cache

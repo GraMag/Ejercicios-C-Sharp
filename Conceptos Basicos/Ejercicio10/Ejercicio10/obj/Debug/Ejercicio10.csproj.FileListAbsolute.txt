@@ -1,0 +1,7 @@
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Conceptos Basicos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojAssemblyReference.cache

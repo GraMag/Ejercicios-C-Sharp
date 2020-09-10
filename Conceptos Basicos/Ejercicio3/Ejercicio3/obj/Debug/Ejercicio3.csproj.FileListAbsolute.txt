@@ -1,0 +1,7 @@
+D:\Programacion Maga\C#\Guia de Ejercicios\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\Programacion Maga\C#\Guia de Ejercicios\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\Programacion Maga\C#\Guia de Ejercicios\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\Programacion Maga\C#\Guia de Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+D:\Programacion Maga\C#\Guia de Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Programacion Maga\C#\Guia de Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\Programacion Maga\C#\Guia de Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
