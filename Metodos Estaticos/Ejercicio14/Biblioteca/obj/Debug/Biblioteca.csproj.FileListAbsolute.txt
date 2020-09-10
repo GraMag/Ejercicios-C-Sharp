@@ -1,0 +1,6 @@
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio14\Biblioteca\bin\Debug\Biblioteca.dll
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio14\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio14\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio14\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio14\Biblioteca\obj\Debug\Biblioteca.dll
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio14\Biblioteca\obj\Debug\Biblioteca.pdb

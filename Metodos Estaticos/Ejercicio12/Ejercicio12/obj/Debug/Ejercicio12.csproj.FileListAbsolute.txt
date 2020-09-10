@@ -1,0 +1,10 @@
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\bin\Debug\Biblioteca.dll
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\bin\Debug\Biblioteca.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csprojAssemblyReference.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CopyComplete
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Metodos Estaticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb
