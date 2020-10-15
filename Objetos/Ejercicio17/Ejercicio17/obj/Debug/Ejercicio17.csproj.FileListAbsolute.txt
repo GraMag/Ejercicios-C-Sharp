@@ -1,0 +1,10 @@
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\bin\Debug\Biblioteca.dll
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\bin\Debug\Biblioteca.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.CopyComplete
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb

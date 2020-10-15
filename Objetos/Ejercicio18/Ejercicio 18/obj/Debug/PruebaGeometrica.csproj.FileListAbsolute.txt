@@ -1,0 +1,10 @@
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\bin\Debug\Ejercicio 18.exe.config
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\bin\Debug\Ejercicio 18.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\bin\Debug\Ejercicio 18.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\bin\Debug\Geometria.dll
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\bin\Debug\Geometria.pdb
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\obj\Debug\PruebaGeometrica.csprojAssemblyReference.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\obj\Debug\PruebaGeometrica.csproj.CoreCompileInputs.cache
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\obj\Debug\PruebaGeometrica.csproj.CopyComplete
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\obj\Debug\Ejercicio 18.exe
+D:\Programacion Maga\C#\Ejercicios-C-Sharp\Objetos\Ejercicio 18\Ejercicio 18\obj\Debug\Ejercicio 18.pdb
